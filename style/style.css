@@ -60,6 +60,7 @@ a {
     text-decoration: none;
     padding: 1.5%;
     color: white;
+    text-transform: uppercase;
 }
 
 a:hover { 
@@ -71,4 +72,5 @@ a:hover {
     padding: 1.5%;
     color: grey;
     border: 1px solid black;
+    text-transform: uppercase;
 }
